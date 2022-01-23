@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SimasG
 - 👀 I’m interested in how technology can improve lives (esp in education & building trustless systems)
-- 🌱 I’m business guy learning how to build digital products
-- 📫 One google search is enough to reach me hehe
+- 🌱 I’m a business guy learning how to build digital products
 - 👨‍💻 Currently heads down into crypto
 
 <!---
