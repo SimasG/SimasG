@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SimasG
 - 👀 I’m interested in how technology can improve lives (esp in education & building trustless systems)
-- 🌱 I’m a business guy learning how to build digital products
-- 👨‍💻 Currently heads down into crypto
+- 👨‍💻 Currently heads down learning to code and exploring crypto
 
 <!---
 SimasG/SimasG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
