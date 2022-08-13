@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimasG
-- 👀 I’m interested in how technology can improve lives (esp in education & building trustless systems)
+- 👀 I’m interested in how technology can improve lives (esp in education & climate change)
 - 👨‍💻 Currently heads down learning to code and exploring crypto
 
 <!---
