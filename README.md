@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simmygrade
 - 👀 I’m interested in how technology can improve lives (esp in climate/regenerative economics)
-- 👨‍💻 Currently heads down coding & exploring ReFi
-- 🌱 Current project: [Offset Helper](https://offsethelper.earth//) - an easy way to calculate your Ethereum carbon footprint & offset your emissions on chain
+- 👨‍💻 Building infra for reliable & transparent MRV data for climate projects
+- 🌱 Side project: [Offset Helper](https://offsethelper.earth//) - an easy way to calculate your Ethereum carbon footprint & offset your emissions on chain
 
 ### Languages and Tools:
 
